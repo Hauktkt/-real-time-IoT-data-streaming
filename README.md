@@ -3,10 +3,13 @@
 Dataset: https://www.kaggle.com/datasets/ranakrc/smart-building-system/data
 
 
-Requirements:
-Spark 3.5.3
-Scala 2,12
-Kafka
+## Requirements
+
+- **Spark**: 3.5.3
+- **Scala**: 2.12
+- **Kafka**: Latest
+- **Elasticsearch**: 8.x
+- **Kibana**: 8.x
 
 
 
